@@ -8,7 +8,7 @@ A straightforward calculator built using HTML, CSS, and JavaScript. This project
 - Clear and backspace functions
 - Simple, user-friendly interface
 
-You can view the live demo of the Simple Calculator Click here [SimpleCalculator].
+You can view the live demo of the Simple Calculator Click here [SimpleCalculator](https://chandu1108.github.io/SimpleCalculator/).
 
 Usage
 1. **Open the calculator in your browser.**
