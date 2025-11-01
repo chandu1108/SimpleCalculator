@@ -7,7 +7,8 @@
 body {
   padding: 0;
   margin: 0;
-  background: linear-gradient(to right, #ff0000, #fff200);
+  background-color: #222831;
+  color: #EEEEEE;
 }
 
 .calculator-grid {
